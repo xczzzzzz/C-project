@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/asus/CLionProjects/3/calc.h
+
+C:/Users/asus/CLionProjects/3/getch.c
+stdio.h
+C:/Users/asus/CLionProjects/3/stdio.h
+
+C:/Users/asus/CLionProjects/3/getop.c
+stdio.h
+C:/Users/asus/CLionProjects/3/stdio.h
+ctype.h
+C:/Users/asus/CLionProjects/3/ctype.h
+calc.h
+C:/Users/asus/CLionProjects/3/calc.h
+
+C:/Users/asus/CLionProjects/3/main.c
+stdio.h
+-
+stdlib.h
+C:/Users/asus/CLionProjects/3/stdlib.h
+calc.h
+C:/Users/asus/CLionProjects/3/calc.h
+
+C:/Users/asus/CLionProjects/3/stack.c
+stdio.h
+-
+calc.h
+C:/Users/asus/CLionProjects/3/calc.h
+
