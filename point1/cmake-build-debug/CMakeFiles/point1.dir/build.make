@@ -76,18 +76,18 @@ include CMakeFiles/point1.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/point1.dir/flags.make
 
-CMakeFiles/point1.dir/main.c.obj: CMakeFiles/point1.dir/flags.make
-CMakeFiles/point1.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asus\CLionProjects\point1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/point1.dir/main.c.obj"
-	F:\BaiduNetdiskDownload\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\point1.dir\main.c.obj   -c C:\Users\asus\CLionProjects\point1\main.c
+CMakeFiles/point1.dir/getch.c.obj: CMakeFiles/point1.dir/flags.make
+CMakeFiles/point1.dir/getch.c.obj: ../getch.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asus\CLionProjects\point1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/point1.dir/getch.c.obj"
+	F:\BaiduNetdiskDownload\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\point1.dir\getch.c.obj   -c C:\Users\asus\CLionProjects\point1\getch.c
 
-CMakeFiles/point1.dir/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/point1.dir/main.c.i"
-	F:\BaiduNetdiskDownload\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\asus\CLionProjects\point1\main.c > CMakeFiles\point1.dir\main.c.i
+CMakeFiles/point1.dir/getch.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/point1.dir/getch.c.i"
+	F:\BaiduNetdiskDownload\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\asus\CLionProjects\point1\getch.c > CMakeFiles\point1.dir\getch.c.i
 
-CMakeFiles/point1.dir/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/point1.dir/main.c.s"
-	F:\BaiduNetdiskDownload\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\asus\CLionProjects\point1\main.c -o CMakeFiles\point1.dir\main.c.s
+CMakeFiles/point1.dir/getch.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/point1.dir/getch.c.s"
+	F:\BaiduNetdiskDownload\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\asus\CLionProjects\point1\getch.c -o CMakeFiles\point1.dir\getch.c.s
 
 CMakeFiles/point1.dir/getint.c.obj: CMakeFiles/point1.dir/flags.make
 CMakeFiles/point1.dir/getint.c.obj: ../getint.c
@@ -102,31 +102,31 @@ CMakeFiles/point1.dir/getint.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/point1.dir/getint.c.s"
 	F:\BaiduNetdiskDownload\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\asus\CLionProjects\point1\getint.c -o CMakeFiles\point1.dir\getint.c.s
 
-CMakeFiles/point1.dir/getch.c.obj: CMakeFiles/point1.dir/flags.make
-CMakeFiles/point1.dir/getch.c.obj: ../getch.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asus\CLionProjects\point1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/point1.dir/getch.c.obj"
-	F:\BaiduNetdiskDownload\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\point1.dir\getch.c.obj   -c C:\Users\asus\CLionProjects\point1\getch.c
+CMakeFiles/point1.dir/main.c.obj: CMakeFiles/point1.dir/flags.make
+CMakeFiles/point1.dir/main.c.obj: ../main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\asus\CLionProjects\point1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/point1.dir/main.c.obj"
+	F:\BaiduNetdiskDownload\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\point1.dir\main.c.obj   -c C:\Users\asus\CLionProjects\point1\main.c
 
-CMakeFiles/point1.dir/getch.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/point1.dir/getch.c.i"
-	F:\BaiduNetdiskDownload\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\asus\CLionProjects\point1\getch.c > CMakeFiles\point1.dir\getch.c.i
+CMakeFiles/point1.dir/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/point1.dir/main.c.i"
+	F:\BaiduNetdiskDownload\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\asus\CLionProjects\point1\main.c > CMakeFiles\point1.dir\main.c.i
 
-CMakeFiles/point1.dir/getch.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/point1.dir/getch.c.s"
-	F:\BaiduNetdiskDownload\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\asus\CLionProjects\point1\getch.c -o CMakeFiles\point1.dir\getch.c.s
+CMakeFiles/point1.dir/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/point1.dir/main.c.s"
+	F:\BaiduNetdiskDownload\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\asus\CLionProjects\point1\main.c -o CMakeFiles\point1.dir\main.c.s
 
 # Object files for target point1
 point1_OBJECTS = \
-"CMakeFiles/point1.dir/main.c.obj" \
+"CMakeFiles/point1.dir/getch.c.obj" \
 "CMakeFiles/point1.dir/getint.c.obj" \
-"CMakeFiles/point1.dir/getch.c.obj"
+"CMakeFiles/point1.dir/main.c.obj"
 
 # External object files for target point1
 point1_EXTERNAL_OBJECTS =
 
-point1.exe: CMakeFiles/point1.dir/main.c.obj
-point1.exe: CMakeFiles/point1.dir/getint.c.obj
 point1.exe: CMakeFiles/point1.dir/getch.c.obj
+point1.exe: CMakeFiles/point1.dir/getint.c.obj
+point1.exe: CMakeFiles/point1.dir/main.c.obj
 point1.exe: CMakeFiles/point1.dir/build.make
 point1.exe: CMakeFiles/point1.dir/linklibs.rsp
 point1.exe: CMakeFiles/point1.dir/objects1.rsp
