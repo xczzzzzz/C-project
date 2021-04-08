@@ -8,7 +8,7 @@ char *alloc(int );
 int readlines(char *lineptr[] , int maxlines)
 {
     int len,nlines;
-    char *p,line[MAXLINE];
+    char *p,line[MAXLINE];//line存放了字符的缓存，
     nlines = 0;
     while ((len = getline(line,MAXLINE)) > 0 )
         if (nlines >= maxlines || (p = alloc(len))==NULL)
