@@ -11,7 +11,7 @@ int readlines(char *lineptr[] , int maxlines)
     char *p,line[MAXLINE];//line存放了字符的缓存，
     nlines = 0;
     while ((len = getline(line,MAXLINE)) > 0 )
-        if (nlines >= maxlines || (p = alloc(len))==NULL)
+        if (nlines >= maxlines || (p = alloc(len))==NULL)//申请len长度的char 类别字符存储空间，
             return -1;
         else{
             line[len - 1] = '\0';
