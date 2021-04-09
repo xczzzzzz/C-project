@@ -15,8 +15,8 @@ int readlines(char *lineptr[] , int maxlines)
             return -1;
         else{
             line[len - 1] = '\0';
-            strcpy(p,line);
-            lineptr[nlines++] = p;
+            strcpy(p,line);//将缓存中的字符copy到地址p中的buff区
+            lineptr[nlines++] = p;//将代表此字符的起始地址放入lineptr这个char 类指针数组供给后续使用
         }
     return nlines;
 }
