@@ -1,0 +1,3 @@
+C:/Users/asus/CLionProjects/struct_project/cmake-build-debug/CMakeFiles/struct_project.dir
+C:/Users/asus/CLionProjects/struct_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/asus/CLionProjects/struct_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
