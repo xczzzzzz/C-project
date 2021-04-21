@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/asus/CLionProjects/struct_project/main.c
+C:/Users/70738/CLionProjects/c-project/C-project/struct_project/getch.c
+stdio.h
+C:/Users/70738/CLionProjects/c-project/C-project/struct_project/stdio.h
+
+C:/Users/70738/CLionProjects/c-project/C-project/struct_project/main.c
 stdio.h
 -
 ctype.h
-C:/Users/asus/CLionProjects/struct_project/ctype.h
+C:/Users/70738/CLionProjects/c-project/C-project/struct_project/ctype.h
 string.h
-C:/Users/asus/CLionProjects/struct_project/string.h
+C:/Users/70738/CLionProjects/c-project/C-project/struct_project/string.h
 stdlib.h
-C:/Users/asus/CLionProjects/struct_project/stdlib.h
+C:/Users/70738/CLionProjects/c-project/C-project/struct_project/stdlib.h
 

@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/asus/CLionProjects/struct_project/getch.c" "C:/Users/asus/CLionProjects/struct_project/cmake-build-debug/CMakeFiles/struct_project.dir/getch.c.obj"
-  "C:/Users/asus/CLionProjects/struct_project/main.c" "C:/Users/asus/CLionProjects/struct_project/cmake-build-debug/CMakeFiles/struct_project.dir/main.c.obj"
+  "C:/Users/70738/CLionProjects/c-project/C-project/struct_project/getch.c" "C:/Users/70738/CLionProjects/c-project/C-project/struct_project/cmake-build-debug/CMakeFiles/struct_project.dir/getch.c.obj"
+  "C:/Users/70738/CLionProjects/c-project/C-project/struct_project/main.c" "C:/Users/70738/CLionProjects/c-project/C-project/struct_project/cmake-build-debug/CMakeFiles/struct_project.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
