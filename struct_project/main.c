@@ -76,4 +76,4 @@ char *strdup1(char *s){
     return p;
 }
 //malloc函数返回的是void类型的指针，利用sizeof得到目标数据大小的存储空间地址之后利用指针强行转换
-//将void指针转换至需要的数据类型，此处是转换成为struct tnode 类型的指针
+//将void指针转换至需要的数据类型，此处是转换成为struct tnode 类型的指针  是
